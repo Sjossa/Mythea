@@ -1,0 +1,17 @@
+{
+    "name": "johnny/mythea-back",
+    "autoload": {
+        "psr-4": {
+            "Johnny\\MytheaBack\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Johnny Sassiat",
+            "email": "johnny.sass2001@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
